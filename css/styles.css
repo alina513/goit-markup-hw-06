@@ -717,7 +717,7 @@ cursor: pointer;
 }
 
 .modal-form-check:focus + .modal-form-check-description::before {
-
+  
 }
 
 .modal-form-submit {
