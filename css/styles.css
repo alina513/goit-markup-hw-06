@@ -704,8 +704,14 @@ margin-bottom: 16px;
 }
 
 .modal-form {
+  
+}
+
+.modal-form-container {
   display: flex;
   flex-direction: column;
+
+  margin-bottom: 8px;
 }
 
 .modal-form-input {
